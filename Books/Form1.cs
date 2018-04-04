@@ -20,6 +20,10 @@ namespace Books
         private void Form1_Load(object sender, EventArgs e)
         {
             int num;
+            int Number(int number1, int number2)
+            {
+                return number1 + number2;
+            }
         }
     }
 }
